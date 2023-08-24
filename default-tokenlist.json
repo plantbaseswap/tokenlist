@@ -1,0 +1,81 @@
+{
+  "name": "PlantBaseSwap Tokenlist",
+  "timestamp": "2023-08-25T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/plantbaseswap/tokenlist/master/info/logo.png",
+  "keywords": [
+    "plantbaseswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Axelar Wrapped USDC",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "symbol": "axlUSDC",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/plantbaseswap/tokenlist/master/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png"
+    },
+	{
+      "name": "Axelar Wrapped WBTC",
+      "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+      "symbol": "axlWBTC",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/plantbaseswap/tokenlist/master/assets/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad/logo.png"
+    },
+	{
+      "name": "Coinbase Wrapped Staked ETH",
+      "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+      "symbol": "cbETH",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/plantbaseswap/tokenlist/master/assets/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22/logo.png"
+    },
+	{
+      "name": "Dai Stablecoin",
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/plantbaseswap/tokenlist/master/assets/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo.png"
+    },
+	{
+      "name": "DAI+",
+      "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
+      "symbol": "DAI+",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/plantbaseswap/tokenlist/master/assets/0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275/logo.png"
+    },
+	{
+      "name": "USD Base Coin",
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "symbol": "USDbC",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/plantbaseswap/tokenlist/master/assets/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png"
+    },
+	{
+      "name": "USD+",
+      "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+      "symbol": "USDC+",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/plantbaseswap/tokenlist/master/assets/0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376/logo.png"
+    },
+	{
+      "name": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/plantbaseswap/tokenlist/master/assets/0x4200000000000000000000000000000000000006/logo.png"
+    }
+  ]
+}
